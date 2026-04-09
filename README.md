@@ -98,7 +98,7 @@ This tool is developed for **educational purposes only**. Do not use it to scan 
 
 ## 👨‍💻 Author
 
-* Rohit Kindarle
+* Rudra Amgaonkar
 
 ---
 
